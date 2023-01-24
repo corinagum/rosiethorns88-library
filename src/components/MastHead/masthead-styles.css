@@ -37,8 +37,3 @@
   background-size: 50px 100px;
   background-position: 0 27px;
 }
-.foot ::after {
-  background-color: pink;
-  content: "";
-  height: 27px;
-}

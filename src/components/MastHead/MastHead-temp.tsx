@@ -2,7 +2,7 @@ import "./masthead.css";
 
 import { FC } from "react";
 
-export const MastHead: FC = () => {
+const MastHead: FC = () => {
   return (
     <>
       <div id="masthead">
@@ -20,3 +20,5 @@ export const MastHead: FC = () => {
     </>
   );
 };
+
+export default MastHead;
